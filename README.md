@@ -1,5 +1,5 @@
 
-![profile](./images/banner-me.png)
+![profile](./banner-me.png)
 
 #### Hi there 👋
 
