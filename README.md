@@ -5,7 +5,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github.com/Jakaria030/Jakaria030/blob/main/banner-2.png"  />
+  <img src="https://github.com/Jakaria030/Jakaria030/blob/main/banner-5.png"  />
 </div>
 
 ###
@@ -14,11 +14,11 @@
 
 ###
 
-<p align="left">Hi, I'm Gulam Jakaria. I am a web developer with expertise in the MERN stack. I enjoy building user-friendly web applications and exploring new technologies.</p> 
+<p align="left">Hi, I'm Gulam Jakaria. I am a Full Stack Web developer with expertise in the MERN stack. I enjoy building user-friendly web applications and exploring new technologies.</p> 
 
 <ul align="left">
   <li>🔭 I’m currently exploring Next.js.</li>
-  <li>🌍 I’m working on a explore bangla website.</li>
+  <li>🌍 I’m working on a Sea (Hotel Booking Management System) website.</li>
   <li>📘 Learning advanced concepts in React and MongoDB.</li>
 </ul>
 
@@ -65,8 +65,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
@@ -76,7 +74,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
 </div>
 
 ###
